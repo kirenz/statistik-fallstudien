@@ -12,7 +12,7 @@
 
 :page_facing_up: `00-2-shipman-zeiten`:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirenz/statistik-fallstudien/blob/main/00-1-shipman-zeiten.ipynb)
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirenz/statistik-fallstudien/blob/main/00-1-shipman-zeiten.ipynb)
 ---
 
 
