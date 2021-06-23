@@ -23,7 +23,7 @@
 :page_facing_up: 
  [Folien](https://docs.google.com/presentation/d/1dhVCwiqW15LtckzVSti8bhIwrCZomJ7kBAbWbBPJgBQ/edit?usp=sharing)
 
-:computer: `00-1-shipman-opfer`: 
+:computer: `01-1-child-heart-survival`: 
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirenz/statistik-fallstudien/blob/main/01-1-child-heart-survival.ipynb)
 
