@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Fallstudien
 
-You can use the [editor on GitHub](https://github.com/kirenz/statistik-fallstudien/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Harold Shipman
 
-### Markdown
+:page_facing_up: 
+ [Folien](https://docs.google.com/presentation/d/1gOlKrLmjg5r-f4MoXgI9Qlj9WrPXkm_9SMCUOzQf-vA/edit?usp=sharing)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+:computer: `00-1-shipman-opfer`: 
 
-```markdown
-Syntax highlighted code block
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirenz/statistik-fallstudien/blob/main/00-1-shipman-opfer.ipynb)
 
-# Header 1
-## Header 2
-### Header 3
+:computer: `00-2-shipman-zeiten`: 
 
-- Bulleted
-- List
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirenz/statistik-fallstudien/blob/main/00-1-shipman-zeiten.ipynb)
+  
+---
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Überlebensraten
 
-[Link](url) and ![Image](src)
-```
+:page_facing_up: 
+ [Folien](https://docs.google.com/presentation/d/1dhVCwiqW15LtckzVSti8bhIwrCZomJ7kBAbWbBPJgBQ/edit?usp=sharing)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+:computer: `01-1-child-heart-survival`: 
 
-### Jekyll Themes
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirenz/statistik-fallstudien/blob/main/01-1-child-heart-survival.ipynb)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kirenz/statistik-fallstudien/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
